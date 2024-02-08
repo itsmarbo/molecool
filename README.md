@@ -15,9 +15,11 @@ To install, run this command:
 pip instal -e .
 ```
 
+something here.
+
 ### Copyright
 
-Copyright (c) 2024, Marlene Bosquez
+Copyright (c) 2024, Marlene Bosquez I am a PhD sudent.
 
 
 #### Acknowledgements
